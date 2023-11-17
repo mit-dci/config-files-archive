@@ -1,2 +1,2 @@
 # config-files-archive
-Archive of config files used for OpenCBDC instantiation, and tests
+This Repository is for long term storage of commonly used config files.
